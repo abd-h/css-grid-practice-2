@@ -1,4 +1,4 @@
-# Parcticing | CSS grid 
+# Parcticing | CSS grid
 
 ## Lesson one
 
@@ -6,4 +6,4 @@
 
 2. Using line based placement on the grid
 
-* description list added. 
+* description list added.
